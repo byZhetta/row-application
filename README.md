@@ -1,5 +1,3 @@
-# Socket Server Basico
+# Aplicación de filas con Socket.io
 
-Un servidor de Websockets usando Node, Express y Socket.io
-
-Temas cubiertos en mi curso de Node de cero a experto
+Un servidor de WebSocket usando Node, Express y Socket.io
