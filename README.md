@@ -1,12 +1,12 @@
-# Aplicación de filas con Socket.io
+# App rows with Socket.io
 
-Desarrollo de una aplicación con WebSocket usando nodejs, expressjs y socket.io. Cumple la función de una fila de espera por turnos, posee acceso por mesas y creación de ticket.
+Development of an application with WebSocket using nodejs, expressjs and socket.io. It serves as a turn-based waiting line, has access by tables and ticket creation.
 
-|Pantalla principal|Pantalla de espera|
+|Main screen|Waiting screen|
 |:--------:|:--------:|
 |![main](https://res.cloudinary.com/dhpf7lthd/image/upload/v1681915986/projects/mainscreen_xjcvyz.jpg)|![ticket](https://res.cloudinary.com/dhpf7lthd/image/upload/v1681915857/projects/mainticket_eoqifs.jpg)|
 
-## Instalación
+## Installation
 
 ```bash
 git clone https://github.com/byZhetta/row-application.git
@@ -15,7 +15,7 @@ npm install
 npm start
 ```
 
-Instalación con Docker
+Installing with Docker
 
 ```bash
 git clone https://github.com/byZhetta/row-application.git
@@ -23,7 +23,7 @@ cd row-application
 docker-compose up
 ```
 
-## Tecnologías principales
+## Technologies
 
 - nodejs v14.18.1
 - expressjs v4.17.1
